@@ -1,8 +1,20 @@
-## Olá! Eu sou Bruno Sena <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-<div align="center">
-  <a href="https://github.com/Bruninho-ss1">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Bruninho-ss1&show_icons=true&theme=react&bg_color=0D1117&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bruninho-ss1&layout=compact&langs_count=7&theme=react&bg_color=0D1117"/></div>
+
+
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img
+      alinhar="centro"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bruninho-ss1&layout=compact&langs_count=7&theme=dracula"
+    />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img
+      alinhar="centro"
+      altura="165"
+      src="https://github-readme-stats.vercel.app/api?username=Bruninho-ss1&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"
+    />
+  </a>
+</p>
   
   
  
