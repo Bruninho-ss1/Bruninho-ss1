@@ -7,7 +7,7 @@
 - 🎮 Vamos jogar uma partida de lol? 
 
 ##
-  <a href="https://github.com/Bruninho-ss1"><img height="160em" src="https://github-readme-stats.vercel.app/api?username=Bruninho-ss1&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117"/></a>
+  <a href="https://github.com/Bruninho-ss1"><img height="160em" src="https://github-readme-stats.vercel.app/api?username=Bruninho-ss1&show_icons=true&theme=react&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117"/></a>
   <a href="https://github.com/Bruninho-ss1"><img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bruninho-ss1&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117"/></a>
   <br/>
  ## Minhas skills ✔️
